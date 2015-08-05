@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/jameel-rean/ansible-role-rubyapp.git
+  ref: master
+  sha: eac08ad3e6d4594fcf2a7e784e4306962d0e5433
+  specs:
+    ror (0.3.2)
+
+DEPENDENCIES
+  ror (>= 0)
+

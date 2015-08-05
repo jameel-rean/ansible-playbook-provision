@@ -1,0 +1,9 @@
+.project
+.settings
+.buildpath
+/target
+/tmp
+/librarian_roles/
+/.vagrant
+.*.swp
+*~

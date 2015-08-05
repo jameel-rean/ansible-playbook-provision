@@ -1,0 +1,2 @@
+role 'ror',
+  git: 'https://github.com/jameel-rean/ansible-role-rubyapp.git'
